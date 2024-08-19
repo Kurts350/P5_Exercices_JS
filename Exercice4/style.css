@@ -1,0 +1,31 @@
+header {
+    background: #FFCC99;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
+
+header h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+main {
+    background: #E6F2FF;
+    display: flex;
+}
+
+section {
+    margin: 20px;
+    flex: 3;
+}
+
+aside {
+    background: #B3D9FF;
+    flex: 1;
+    border: 1px solid #CCC;
+}
+
+footer {
+    background: #99CC99;
+    border: 1px solid #CCC;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
