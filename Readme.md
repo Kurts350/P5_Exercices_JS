@@ -59,7 +59,7 @@ Valider vos connaissances en :
 
 **NIAKATE Biaguy**  
 Formation Développeur d'application JavaScript React – OpenClassrooms  
-📅 Avril 2024
+📅 Aout 2024
 
 ---
 
