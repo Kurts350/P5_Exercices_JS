@@ -1,13 +1,68 @@
-# Projet 5 : Testez vos compétences, les langages du web
+# Projet 5 – Testez vos compétences : les langages du Web
 
- Pour commencer le projet, lancez la commande `npm install` qui installera les dépendances du projet. 
- 
-Vous pourrez ainsi réaliser les différents exercices. 
+Ce projet est un **exercice d’évaluation des compétences fondamentales** acquises durant la première partie du parcours **Développeur d'application JavaScript React** chez OpenClassrooms.
 
-Pour vérifier que votre exercice est correctement réalisé vous n'avez qu'à lancer la commande `npm start` puis la commande `npm run test`. 
-Vous verrez alors s'afficher l'application `Cypress`. 
-Sélectionnez `E2E Testing` puis sélectionnez le navigateur dans lequel vous voulez lancer vos tests. 
+---
 
-Si votre code est correct alors les tests seront décrits en vert. 
+## 🎯 Objectif
 
-Bon entraînement !
+Valider vos connaissances en :
+
+- **HTML5** – Structuration sémantique et accessible d’une page
+- **CSS3** – Mise en forme responsive et esthétique d’une interface
+- **JavaScript** – Ajout d’interactivité, gestion d’événements et manipulation du DOM
+
+---
+
+## 🛠️ Technologies utilisées
+
+- HTML5  
+- CSS3 (avec Media Queries)  
+- JavaScript ES6  
+- IDE recommandé : Visual Studio Code  
+- Navigateurs compatibles : Chrome, Firefox, Edge
+
+---
+
+## ▶️ Lancer le projet
+
+1. Cloner le dépôt :
+   ```bash
+   git clone https://github.com/Kurts350/P5_Exercices_JS.git
+   ```
+
+2. Ouvrir le fichier `index.html` dans votre navigateur.
+
+3. Interagir avec la page et tester les fonctionnalités JS.
+
+---
+
+## ✅ Critères de validation
+
+- [x] Utilisation correcte des balises HTML sémantiques
+- [x] Mise en page responsive avec CSS
+- [x] Ajout d’interactivité via JavaScript
+- [x] Code lisible, bien indenté et commenté si nécessaire
+- [x] Aucune erreur bloquante dans la console
+
+---
+
+## 📚 Ressources utiles
+
+- [Documentation HTML – MDN](https://developer.mozilla.org/fr/docs/Web/HTML)
+- [Documentation CSS – MDN](https://developer.mozilla.org/fr/docs/Web/CSS)
+- [Documentation JavaScript – MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+
+---
+
+## 👤 Auteur
+
+**NIAKATE Biaguy**  
+Formation Développeur d'application JavaScript React – OpenClassrooms  
+📅 Avril 2024
+
+---
+
+## 📄 Licence
+
+Ce projet a été réalisé à des fins pédagogiques dans le cadre de la formation OpenClassrooms. Reproduction partielle ou totale interdite sans autorisation.
